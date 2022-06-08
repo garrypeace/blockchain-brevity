@@ -1,5 +1,5 @@
 # Blockchain
 
-> A public record of time-stamped data that cannot be modified and is managed by a network of computers.
-> No central authority can control this **decentralized** system.
-> Data in this network is encrypted by cryptographic encryption.
+> A public trail of time-stamped data that is [immutable](immutable) and is managed by a network of computers.
+> No [central authority](centralization) can control this [decentralized](decentralized) system.
+> Data in this network is encrypted by [cryptographic encryption](cryptography).
